@@ -17,7 +17,12 @@ This is an interactive data visualization app built using **Streamlit** to explo
 
 ## 🗂️ Project Structure
 
-global-shark-attacks-visualization/ ├── app.py # Streamlit app code ├── global_shark_attacks.xlsx # Excel file containing the dataset ├── requirements.txt # Python dependencies ├── README.md # Project documentation (this file) └── .gitignore # Optional Git ignore file
+global-shark-attacks-visualization/ 
+├── app.py # Streamlit app code 
+├── global_shark_attacks.xlsx # Excel file containing the dataset 
+├── requirements.txt # Python dependencies 
+├── README.md # Project documentation (this file) 
+└── .gitignore # Optional Git ignore file
 
 
 ---

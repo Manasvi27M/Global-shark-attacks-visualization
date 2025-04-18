@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Excel temporary/autosave files
+~$*.xlsx
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Log files and temporary files
+*.log
+*.tmp
